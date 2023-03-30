@@ -53,7 +53,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
                 child: const Text(
                   'Login',
                   style: TextStyle(
-                  fontSize: 26,
+                  fontSize: 25,
                   fontWeight: FontWeight.w900,
                   color: Color.fromARGB(255, 0, 79, 118))),
                     ),
